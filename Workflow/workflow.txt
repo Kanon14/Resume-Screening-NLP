@@ -1,0 +1,7 @@
+1. Field to put the Job Description
+2. Upload PDF
+3. PDF to image --> Processing --> Google Gemini Pro
+4. Prompts Template [Multiple Prompts]
+
+# Solving Poppler Problem
+"conda install -c conda-forge poppler"
