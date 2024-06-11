@@ -60,7 +60,7 @@ Highlight the strengths and weaknesses of the applicant concerning the specified
 
 input_prompt3 = """
 You are an skilled ATS (Applicant Tracking System) scanner with a deep understanding of data science and ATS functionality, 
-your task is to evaluate the resume against the provided job description. give me the percentage of match if the resume matches
+your task is to evaluate the resume against the provided job description. Give me the percentage of match if the resume matches
 the job description. First the output should come as percentage and then keywords missing and last final thoughts.
 """
 
